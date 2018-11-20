@@ -1,0 +1,3 @@
+# mancala
+
+MANCALA (MINIMAX)
